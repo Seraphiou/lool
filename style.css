@@ -9,5 +9,9 @@ td.revision-cell {
     overflow: hidden;
 }
 tbody.pipelineGroup {
+    background-color: #fff;
+    border: solid 1px #ccc;
+}
+#build-pipeline-plugin-content {
     background-color: #ddd;
 }
