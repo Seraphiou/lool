@@ -13,7 +13,7 @@ tbody.pipelineGroup {
     border: solid 1px #ccc;
 }
 #build-pipeline-plugin-content {
-    background-color: #ddd;
+    background-color: none;
 }
 .rounded {
     -webkit-border-radius: none;
