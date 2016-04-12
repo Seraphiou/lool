@@ -4,3 +4,6 @@
 #pipelines {
     width: 90%;
 }
+td.revision-cell {
+    max-width: 440px;
+}
