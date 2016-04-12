@@ -6,4 +6,5 @@
 }
 td.revision-cell {
     max-width: 440px;
+    overflow: hidden;
 }
