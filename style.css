@@ -15,3 +15,9 @@ tbody.pipelineGroup {
 #build-pipeline-plugin-content {
     background-color: #ddd;
 }
+.rounded {
+    -webkit-border-radius: none;
+    border-radius: none!important;
+    -webkit-box-shadow: 0;
+    box-shadow: none!important;
+}
