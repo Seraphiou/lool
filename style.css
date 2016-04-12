@@ -8,3 +8,6 @@ td.revision-cell {
     max-width: 440px;
     overflow: hidden;
 }
+tbody.pipelineGroup {
+    background-color: #ddd;
+}
