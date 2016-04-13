@@ -25,6 +25,9 @@ tbody.pipelineGroup {
     border-collapse: collapse;
     border: solid 1px #bbb;
 }
+td.secondary-info {
+    padding: 5px;
+}
 .header div {
     border-radius: 0!important;
 }
