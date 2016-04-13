@@ -32,6 +32,8 @@ tbody.pipelineGroup {
     padding: 0!important;
 }
 td.next {
-    padding: 4px;
     vertical-align: middle;
+}
+.build-pipeline > td {
+    padding: 4px;
 }
