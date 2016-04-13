@@ -54,3 +54,12 @@ h1 {
     background-color: rgb(239, 239, 239);;
     margin-left: 0;
 }
+table.build-card.rounded.PENDING {
+    background-color: #03A9F4;
+}
+table.build-card.rounded.SUCCESS {
+    background-color: #4CAF50;
+}
+table.build-card.rounded.FAILURE {
+    background-color: #F44336;
+}
