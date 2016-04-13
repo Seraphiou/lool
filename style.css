@@ -31,3 +31,7 @@ tbody.pipelineGroup {
 .header {
     padding: 0!important;
 }
+td.next {
+    padding: 4px;
+    vertical-align: middle;
+}
