@@ -15,11 +15,15 @@ tbody.pipelineGroup {
 #build-pipeline-plugin-content {
     background-color: none;
 }
+.build-card.rounded {
+    box-shadow: 1px 1px 1px #ccc;
+}
 .rounded {
     -webkit-border-radius: 0;
     border-radius: 0!important;
     -webkit-box-shadow: 0;
-    box-shadow: none!important;
+    border-collapse: collapse;
+    border: solid 1px #bbb;
 }
 .header div {
     border-radius: 0!important;
