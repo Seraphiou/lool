@@ -40,3 +40,10 @@ tr.build-pipeline > td {
 .header td {
     padding: 0;
 }
+#main-panel {
+    background-color: #dFF;
+}
+h1 {
+    text-align: center;
+    color: #095877;
+}
